@@ -1,2 +1,2 @@
 # Dark-Mode_Toggle
-Using HTML CSS and JAVASCRIPT 
+Toggling a webpage using HTML CSS and JAVASCRIPT 
